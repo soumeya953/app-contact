@@ -11,6 +11,7 @@ import FooterPage from './components/FooterPage';
 
 
 function App() {
+  
   //utilisation d'une API
   const [ContactState, setContactState] = useState([]);
   const [ArticleState, setArticleState] = useState([]);
